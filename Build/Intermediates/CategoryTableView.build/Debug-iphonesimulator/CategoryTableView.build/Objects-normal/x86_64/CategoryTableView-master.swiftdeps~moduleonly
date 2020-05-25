@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "8abcaa1b60b9f1d4759a4324fce8ebf1"
+build_time: [1590416270, 264098000]
+inputs:
+  "/Users/shashwat/Desktop/Development/Experiment/Mayur/CategoryTableView/CategoryTableView/View/CategoryViewController.swift": [1590416268, 162833237]
+  "/Users/shashwat/Desktop/Development/Experiment/Mayur/CategoryTableView/CategoryTableView/Delegate/AppDelegate.swift": [1590416267, 846717398]
+  "/Users/shashwat/Desktop/Development/Experiment/Mayur/CategoryTableView/CategoryTableView/Delegate/SceneDelegate.swift": [1590416268, 23714652]
+  "/Users/shashwat/Desktop/Development/Experiment/Mayur/CategoryTableView/CategoryTableView/View/CategoryColCell.swift": [1590416267, 855375174]
+  "/Users/shashwat/Desktop/Development/Experiment/Mayur/CategoryTableView/CategoryTableView/Model/Model.swift": [1590416268, 147857194]
+  "/Users/shashwat/Desktop/Development/Experiment/Mayur/CategoryTableView/CategoryTableView/View/MealCellView.swift": [1590416267, 996553413]
